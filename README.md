@@ -62,7 +62,7 @@ The four models were evaluated on the MM-IMDb test set using validation-selected
 |---|---:|---:|---:|---:|---:|
 | Poster-only | 0.4723 | 0.3241 | 0.4728 | 0.3165 | 0.1641 |
 | Plot-only | 0.6394 | 0.5765 | 0.6373 | 0.6102 | 0.0959 |
-| **Early Fusion** | **0.6607** | **0.5930** | **0.6618** | **0.6187** | **0.0826** |
+| Early Fusion | 0.6607 | 0.5930 | 0.6618 | 0.6187 | 0.0826 |
 | Late Fusion | 0.6394 | 0.5765 | 0.6373 | 0.6102 | 0.0959 |
 
 Early Fusion achieved the highest Macro-F1 in the main test experiment. However, repeated-seed validation results did not consistently demonstrate an advantage over Plot-only.
